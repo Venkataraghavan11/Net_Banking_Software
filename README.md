@@ -1,4 +1,4 @@
-# Bank_Management_System
+# Bank_Management_System using python tkinter.
 
 Creating Bank account for custumor using admin/employee and saving the datas in database txt file and sqlite3 DB.
 
