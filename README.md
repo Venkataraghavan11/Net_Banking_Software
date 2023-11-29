@@ -7,3 +7,5 @@ Employee password: admin
 
 step 1: Run the DB.py file,
 step 2: Run the mainProject.py file
+
+By Venkataraghavan R.
